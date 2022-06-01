@@ -679,8 +679,8 @@ position: relative;
    transition: transform 500ms 200ms ease-in-out
 }
 
-.portfolio-project .list-item:hover .portfolio-project-overlay,
-.portfolio-project .list-item:focus .portfolio-project-overlay {
+.portfolio-project-card:hover .portfolio-project-overlay,
+.portfolio-project-card:focus .portfolio-project-overlay {
       transform: translateY(0);
 }
 
